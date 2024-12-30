@@ -1,0 +1,4 @@
+Dummy api for all products
+----------------------------------
+
+https://fakestoreapi.com/products

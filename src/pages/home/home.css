@@ -1,0 +1,136 @@
+/* .banner-container{
+    margin:40px 0px
+}
+
+.banner-img{
+    width:100%;
+}
+
+.category-heading{
+    text-transform: uppercase;
+    letter-spacing: .15em;
+    color:#3e4152;
+    font-size: 1.8em;
+    max-height: 5em;
+    margin: 50px 0px 10px 30px;
+    font-weight: 700;
+}
+
+.category-items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.category-item{
+    width: 246px;
+}
+
+.sale-heading{
+    text-transform: uppercase;
+    letter-spacing: .15em;
+    color:#3e4152;
+    font-size: 1.8em;
+    max-height: 5em;
+    margin: 50px 0px 30px 30px;
+    font-weight: 700;
+}
+
+.sale-items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.sale-item{
+    width: 246px;
+} */
+
+
+/* seperate item  */
+/* .items-container{
+   display:flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+}
+
+.item-container{
+    margin-right: 20px;
+    margin-left: 20px;
+    width:200px;
+}
+
+.item-img{
+    width: 200px;
+    height:270px;
+}
+
+.rating{
+    font-size: 12PX;
+    font-weight: 700;
+}
+
+.company-name{
+    margin-top: 15px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1;
+    color: #282c3f;
+    margin-bottom: 6px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.item-name{
+    color: #535766;
+    font-size: 14px;
+    line-height: 1;
+    margin-bottom: 0;
+    margin-top:0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-weight: 400;
+    display: block;
+}
+
+.item-price{
+    font-size: 14px;
+    line-height: 15px;
+    color:#282c3f;
+    white-space: nowrap;
+    margin-top: 10px;
+}
+
+.current-price{
+    font-size: 14px;
+    font-weight: 700;
+    color:#282c3f;
+}
+
+.original-price{
+    text-decoration: line-through;
+    color: #7e818c;
+    font-weight: 400;
+    margin-left: 5px;
+    font-size: 12px;
+}
+
+.discount{
+    color: #ff905a;
+    font-weight: 400;
+    font-size: 12px;
+    margin-left: 5px;
+}
+
+.btn-add-to-cart{
+    width: 100%;
+    margin-top: 10px;
+    font-size: 18px;
+    background-color: lightgreen;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 10px;
+} */

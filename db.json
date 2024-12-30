@@ -1,0 +1,25 @@
+{
+"products" : [{
+    "Sale": {
+        "available" : true,
+        "endDate": "2022-07-23T13:36:54.211Z",
+        "pricebefore": 1983,
+        "startDate": "2022-07-23T13:36:54.211Z",
+        "value": 70
+    },  
+    "category": "Accessories",
+    "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem .",
+    "image": "https://i.im.ge/2022/06/18/rBO5fP.png",
+    "name": "Cinnamon Rolls",
+    "price": 595,
+    "quantity": 4337,
+    "rate": {
+        "reviews": 1, 
+        "rating": 3, 
+        "numberOfReviews": 1
+    },
+    "__v": 4,
+    "_id": "62dbf9762dd27153fa116537"
+    
+}]
+}
