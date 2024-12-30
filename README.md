@@ -56,3 +56,11 @@ React Router for client-side navigation.
 State Management:
 
 Context API or Redux for handling global state.
+
+
+
+<img width="777" alt="paint (8)" src="https://github.com/user-attachments/assets/cde8032c-813c-4031-90d8-2080bf8b396f" />
+<img width="777" alt="paint (7)" src="https://github.com/user-attachments/assets/43e4e514-2ccd-4c16-a79b-fe2c85f2a0ac" />
+<img width="777" alt="paint (6)" src="https://github.com/user-attachments/assets/cc61e691-57bd-4791-aaba-58c6dbae3011" />
+<img width="777" alt="paint (5)" src="https://github.com/user-attachments/assets/e2f45d3f-2c68-4e6f-b437-a9fe6e2e7ba1" />
+![Screenshot (140)](https://github.com/user-attachments/assets/1fbeaf33-0a8c-45cd-8d77-0545de2807a6)
