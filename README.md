@@ -53,14 +53,12 @@ Libraries:
 
 Axios or Fetch API for data fetching.
 React Router for client-side navigation.
+
 State Management:
 
 Context API or Redux for handling global state.
 
-
-
-<img width="777" alt="paint (8)" src="https://github.com/user-attachments/assets/cde8032c-813c-4031-90d8-2080bf8b396f" />
-<img width="777" alt="paint (7)" src="https://github.com/user-attachments/assets/43e4e514-2ccd-4c16-a79b-fe2c85f2a0ac" />
-<img width="777" alt="paint (6)" src="https://github.com/user-attachments/assets/cc61e691-57bd-4791-aaba-58c6dbae3011" />
-<img width="777" alt="paint (5)" src="https://github.com/user-attachments/assets/e2f45d3f-2c68-4e6f-b437-a9fe6e2e7ba1" />
-![Screenshot (140)](https://github.com/user-attachments/assets/1fbeaf33-0a8c-45cd-8d77-0545de2807a6)
+![Screenshot (136)](https://github.com/user-attachments/assets/a41ab895-0b7b-4ee0-a22b-f741acbda105)
+![Screenshot (137)](https://github.com/user-attachments/assets/c65163db-5e82-47ab-a19c-d268a45b3c25)
+![Screenshot (139)](https://github.com/user-attachments/assets/98f6d578-2a72-4e45-973e-eaf93eb47296)
+![Screenshot (140)](https://github.com/user-attachments/assets/326b5aa6-78eb-45b5-9f37-6a1da0d56d33)
